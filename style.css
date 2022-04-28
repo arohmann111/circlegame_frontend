@@ -40,7 +40,7 @@ table {
 }
 
 .header thead th {
-    position: sticky;
+    /* position: sticky; */
     top: 100px;
 	background-color:#515151;
     color: #e6e7e8;
