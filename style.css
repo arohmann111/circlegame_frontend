@@ -12,7 +12,7 @@
     box-sizing: border-box;
 }
 
-td img{
+img{
     width: 60px;
     height: 60px;
 }
@@ -32,7 +32,7 @@ table {
     margin-bottom: 200px;
 }
 .header {
-    height: 500px;
+	height: 500px;
     margin-top: 50px;
     text-align: center;
     font-size: 60px;
@@ -41,12 +41,21 @@ table {
 
 .header thead th {
     position: sticky;
-    top: 70;
+    top: 100px;
+	background-color:#515151;
+    color: #e6e7e8;
+    font-size: 15px;
 }
+
+p {
+	padding: 20px 10px;
+}
+
 th, td {
-    padding: 20px 20px;
+	
+	font-size: 20px;
+	padding: 20px 20px;
     border-bottom: 1px solid #515151;
-    font-size: 20px;
 }
 
 body {
