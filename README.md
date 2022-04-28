@@ -4,6 +4,10 @@
 
 ![Screenshot](./docs/CirclegameLeaderboard.png)
 
+and the version in the **new** folder
+
+![Screenshot](./docs/newLeaderboard.png)
+
 ## Download
 You can download the project with the following command:
 ```
