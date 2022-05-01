@@ -6,7 +6,7 @@
 
 and the version in the **new** folder
 
-![Screenshot](./docs/newLeaderboard.png)
+![Screenshot](./docs/leaderboard.png)
 
 ## Download
 You can download the project with the following command:
